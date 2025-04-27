@@ -23,9 +23,7 @@ public class XORandTriangle
           y/=2;
           y--;
           pw.println(y);
-        }
-        
-        
+        } 
       }
       pw.close();
     }
