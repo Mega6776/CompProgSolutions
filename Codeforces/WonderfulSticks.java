@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-public class Main 
+public class WonderfulSticks 
 {
     public static void main(String[] args) throws IOException
     {
