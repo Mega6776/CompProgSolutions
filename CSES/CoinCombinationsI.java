@@ -14,7 +14,7 @@ public class CoinCombinationsI
       st=new StringTokenizer(br.readLine());
       for(int i=0;i<n;i++)
       arr[i]=Integer.parseInt(st.nextToken());
-      long[]dp=new long[x+1]; //dp[i]=min number of coins needed to produce value i 
+      long[]dp=new long[x+1]; 
       dp[0]=1;
       for(int i=1;i<=x;i++)
       {
